@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-02T15:17:39 IST" name="Default suite" finished-at="2026-01-02T15:17:39 IST" duration-ms="80">
+    <groups>
+    </groups>
+    <test started-at="2026-01-02T15:17:39 IST" name="Default test" finished-at="2026-01-02T15:17:39 IST" duration-ms="80">
+      <class name="gitHubPractise.GithubPractiseTest">
+        <test-method signature="githubPractiseTest()[pri:0, instance:gitHubPractise.GithubPractiseTest@4f83df68]" started-at="2026-01-02T15:17:39 IST" name="githubPractiseTest" finished-at="2026-01-02T15:17:39 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- githubPractiseTest -->
+      </class> <!-- gitHubPractise.GithubPractiseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
