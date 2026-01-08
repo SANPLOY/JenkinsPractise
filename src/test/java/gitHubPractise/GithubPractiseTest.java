@@ -7,7 +7,9 @@ public class GithubPractiseTest {
 	public void githubPractiseTest() {
 		System.out.println("hii github");
 		String data=System.getProperty("Practise");
+		
 		System.out.println(data);
+		System.out.println("hii github");
 		
 	}
 
