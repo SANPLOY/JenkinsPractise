@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-02T15:17:13 IST" name="Surefire suite" finished-at="2026-01-02T15:17:13 IST" duration-ms="60">
+  <suite started-at="2026-01-08T10:46:44 IST" name="Surefire suite" finished-at="2026-01-08T10:46:44 IST" duration-ms="63">
     <groups>
     </groups>
-    <test started-at="2026-01-02T15:17:13 IST" name="Surefire test" finished-at="2026-01-02T15:17:13 IST" duration-ms="60">
+    <test started-at="2026-01-08T10:46:44 IST" name="Surefire test" finished-at="2026-01-08T10:46:44 IST" duration-ms="63">
       <class name="JenkinsPractise.JenkinsPractiseTest">
-        <test-method signature="jenkinsPractiseTest()[pri:0, instance:JenkinsPractise.JenkinsPractiseTest@4278a03f]" started-at="2026-01-02T15:17:13 IST" name="jenkinsPractiseTest" finished-at="2026-01-02T15:17:13 IST" duration-ms="1" status="PASS">
+        <test-method signature="jenkinsPractiseTest()[pri:0, instance:JenkinsPractise.JenkinsPractiseTest@4278a03f]" started-at="2026-01-08T10:46:44 IST" name="jenkinsPractiseTest" finished-at="2026-01-08T10:46:44 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- jenkinsPractiseTest -->
       </class> <!-- JenkinsPractise.JenkinsPractiseTest -->
       <class name="gitHubPractise.GithubPractiseTest">
-        <test-method signature="githubPractiseTest()[pri:0, instance:gitHubPractise.GithubPractiseTest@65d6b83b]" started-at="2026-01-02T15:17:13 IST" name="githubPractiseTest" finished-at="2026-01-02T15:17:13 IST" duration-ms="8" status="PASS">
+        <test-method signature="githubPractiseTest()[pri:0, instance:gitHubPractise.GithubPractiseTest@65d6b83b]" started-at="2026-01-08T10:46:44 IST" name="githubPractiseTest" finished-at="2026-01-08T10:46:44 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- githubPractiseTest -->
       </class> <!-- gitHubPractise.GithubPractiseTest -->
       <class name="MavenPractise.MavenPractiseTest">
-        <test-method signature="mavenPractiseTest()[pri:0, instance:MavenPractise.MavenPractiseTest@147ed70f]" started-at="2026-01-02T15:17:13 IST" name="mavenPractiseTest" finished-at="2026-01-02T15:17:13 IST" duration-ms="1" status="PASS">
+        <test-method signature="mavenPractiseTest()[pri:0, instance:MavenPractise.MavenPractiseTest@147ed70f]" started-at="2026-01-08T10:46:44 IST" name="mavenPractiseTest" finished-at="2026-01-08T10:46:44 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mavenPractiseTest -->
